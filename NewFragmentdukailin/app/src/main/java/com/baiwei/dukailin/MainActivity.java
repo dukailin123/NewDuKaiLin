@@ -44,7 +44,9 @@ private List<android.support.v4.app.Fragment> Fragments=new ArrayList<>();
         f1 = new Fragment();
         f2 = new Fragment1();
         f3 = new Fragment3();
-        f4 = new Fragment4();
+        f4 = new Fragment4(); 
+
+//ÕâÊÇapp
 
         manager = getSupportFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
